@@ -1,16 +1,24 @@
-### Hi there 👋
+### Olá! Eu sou Rafael M Carvalho 👋
 
-<!--
-**Rafae1040/rafae1040** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-de-carvalho-2172a1225/)
+[![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rafae1040)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
 
-Here are some ideas to get you started:
+![Rafae GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafae1040&show_icons=true&theme=tokyonight)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias que tenho conhecimento e aprendizado
+
+<div style="display: inline_block"><br/>
+  <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img align="center" alt="sqllite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img align="center" alt="sap" src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
+</div><br/>
+
+Analista de dados em formação pela EBAC e graduando em Processos Gerenciais. Atualmente me desenvolvendo como analista de dados e adquirindo habilidades em:
+
+- Python para análise de dados
+- Machine Learning
+- SQL para análise de dados
+- Big data e Data Lake no AWS
+
+Estou sempre buscando oportunidades de aprendizado e estou disposto a trabalhar duro para adquirir habilidades e conhecimentos necessários para crescer em minha carreira. Sou uma pessoa dedicada, com excelentes habilidades de comunicação e trabalho em equipe. Estou ansioso para começar a trabalhar em projetos desafiadores e aprender com profissionais experientes na área de dados.
