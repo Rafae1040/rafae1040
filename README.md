@@ -6,6 +6,8 @@
 
 ![Rafae GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafae1040&show_icons=true&theme=tokyonight)
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Rafae1040&bg_color=000000&color=30438d&line=0ea49a&point=292881&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ## Tecnologias que tenho conhecimento e aprendizado
 
 <div style="display: inline_block"><br/>
