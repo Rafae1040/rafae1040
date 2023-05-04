@@ -34,4 +34,4 @@ Atualmente me desenvolvendo como analista de dados e adquiri habilidades em:
 - SQL para análise de dados
 - Big data e Data Lake no AWS
 
-Estou sempre buscando oportunidades de aprendizado e estou disposto a trabalhar duro para adquirir habilidades e conhecimentos necessários para crescer em minha carreira. Sou uma pessoa dedicada, com excelentes habilidades de comunicação e trabalho em equipe. Estou ansioso para começar a trabalhar em projetos desafiadores e aprender com profissionais experientes na área de dados.Estou animado para crescer como analista de dados e fazer uma diferença positiva no mundo dos negócios.
+Estou sempre buscando oportunidades de aprendizado e estou disposto a trabalhar duro para adquirir habilidades e conhecimentos necessários para crescer em minha carreira. Sou uma pessoa dedicada, com excelentes habilidades de comunicação e trabalho em equipe. Estou ansioso para começar a trabalhar em projetos desafiadores e aprender com profissionais experientes na área de dados. Estou animado para crescer como analista de dados e fazer uma diferença positiva no mundo dos negócios.
