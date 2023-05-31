@@ -15,7 +15,7 @@
 ## Tecnologias que tenho conhecimento e aprendizado
 
 <div style="display: inline_block"><br/>
-  <link rel="center" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+  <i class="devicon-python-plain-wordmark colored"></i>
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow"/>
   <img align="center" alt="sqllite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
   <img align="center" alt="numpy" src="https://img.shields.io/badge/NumPy-4B8BBE?style=for-the-badge&logo=numpy&logoColor=white"/>
