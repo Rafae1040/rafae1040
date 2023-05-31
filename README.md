@@ -10,7 +10,7 @@
 
 ![Rafae GitHub stats](https://github-readme-stats.vercel.app/api?username=Rafae1040&show_icons=true&theme=tokyonight)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Rafae1040&bg_color=000040&color=373948&line=00ffff&point=408080&area=true&hide_border=true)]
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Rafae1040&bg_color=000040&color=373948&line=00ffff&point=408080&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## Tecnologias que tenho conhecimento e aprendizado
 
