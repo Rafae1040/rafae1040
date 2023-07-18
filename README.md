@@ -24,14 +24,23 @@
   <img align="center" alt="scikit-learn" src="https://img.shields.io/badge/Scikit-Learn-808080?style=for-the-badge&logo=Scikit-Learn&logoColor=white"/>
 </div><br/>
 
-Formado em Analise de Dados pela EBAC e graduando em Processos Gerenciais. 
 
+Estou em transição de carreira para uma área que sempre me encantou e que tenho o prazer de estar adquirindo novos conhecimentos e experiências, a área de Dados!
 
-Atualmente me desenvolvendo como analista de dados e adquiri habilidades em:
+Fiz um curso profissional de Analista de Dados na EBAC (Escola Britânica de Artes Criativas e Tecnologia) onde pude ter contato com diversas ferramentas e continuo me dedicando ao desenvolvimento contínuo, buscando adquirir cada vez mais conhecimento para atuar de forma eficaz no campo dos dados, atualmente faço uma pós-graduação na área de Processos Gerenciais.
 
-- Python para análise de dados
-- Machine Learning
-- SQL para análise de dados
-- Big data e Data Lake no AWS
+Prezo pela boa comunicação e por trabalho em equipe, sempre disposto a colaborar com todas as áreas para o alcance dos resultados. Minha capacidade de priorizar tarefas, otimizar processos e implementar soluções eficientes tem como objetivo aprimorar a análise e obtenção de insights valiosos.
 
-Sou um iniciante na carreira de Analista de Dados, buscando oportunidades de aprendizado para crescer profissionalmente. Acredito no papel fundamental da análise de dados no sucesso dos negócios e estou determinado a me tornar um analista altamente capacitado. Tenho uma abordagem dedicada, com excelentes habilidades de comunicação, trabalho em equipe, de sempre buscar aprender e adquirir mais conhecimento. Estou comprometido em me desenvolver continuamente para enfrentar projetos desafiadores, e aprender com profissionais experientes na área de dados, enquanto faço uma diferença positiva no mundo dos negócios e contribuindo para o sucesso das organizações. 
+Algumas habilidades que venho adquirindo ao longo dos meus estudos e experiências em alguns projetos:
+
+- Python e SQL para manipulação, consulta e análise de dados;
+- Capacidade de desenvolver soluções analíticas utilizando técnicas e ferramentas  apropriadas para coleta, limpeza, processamento e visualização de dados;
+- Conhecimento em métodos quantitativos,  incluindo matemática e estatística para análise de dados;
+- Possuo conhecimento em programação orientada a  objetos e aplicar práticas para desenvolver códigos de alta qualidade;
+- Princípios de trabalho ágeis na área de análise de dados;
+- Big data e Data Lake no AWS.
+
+Ferramentas:
+Python, SQL, Seaborn, Kanban, SAP, Pandas, Git e Github, Numpy, Machine Learning, Power BI, Google Data Studio, Amazon Web Services, Big Data, Data Lake, Spark, Apache Spark, PySpark, Pyarrow, ETL.
+
+Estou disponível para conselhos, dicas e oportunidades!  
