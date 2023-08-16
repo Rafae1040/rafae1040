@@ -25,7 +25,7 @@
 </div><br/>
 
 
-Estou em transição de carreira para uma área que sempre me encantou e que tenho o prazer de estar adquirindo novos conhecimentos e experiências, a área de Dados!
+Estou em busca de uma oportunidade na área que sempre me encantou e que tenho o prazer de estar adquirindo novos conhecimentos e experiências, a área de Dados!
 
 Fiz um curso profissional de Analista de Dados na EBAC (Escola Britânica de Artes Criativas e Tecnologia) onde pude ter contato com diversas ferramentas e continuo me dedicando ao desenvolvimento contínuo, buscando adquirir cada vez mais conhecimento para atuar de forma eficaz no campo dos dados, atualmente faço uma pós-graduação na área de Processos Gerenciais.
 
