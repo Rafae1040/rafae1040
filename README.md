@@ -26,22 +26,33 @@
 </div><br/>
 
 
-Estou em busca de uma oportunidade na área que sempre me encantou e que tenho o prazer de estar adquirindo novos conhecimentos e experiências, a área de Dados!
+Olá sou o Rafael,  Analista de Dados com foco em desenvolvimento de soluções analíticas inovadoras que contribuam para o sucesso das organizações.
 
-Fiz um curso profissional de Analista de Dados na EBAC (Escola Britânica de Artes Criativas e Tecnologia) onde pude ter contato com diversas ferramentas e continuo me dedicando ao desenvolvimento contínuo, buscando adquirir cada vez mais conhecimento para atuar de forma eficaz no campo dos dados, atualmente faço uma pós-graduação na área de Processos Gerenciais.
+Entusiasta por tecnologia e aprendizado constante, sempre buscando novas ferramentas e técnicas para melhorar a qualidade dos insights gerados.
 
-Prezo pela boa comunicação e por trabalho em equipe, sempre disposto a colaborar com todas as áreas para o alcance dos resultados. Minha capacidade de priorizar tarefas, otimizar processos e implementar soluções eficientes tem como objetivo aprimorar a análise e obtenção de insights valiosos.
+Com conhecimento sólido em análise de dados, gestão de pessoas, resolução de problemas, comunicação e trabalho em equipe.
 
-Algumas habilidades que venho adquirindo ao longo dos meus estudos e experiências em alguns projetos:
+Profissional com forte capacidade de identificar e analisar problemas de forma lógica e objetiva, desenvolver soluções eficazes, comunicar resultados de forma clara e concisa, colaborar com outras pessoas para atingir objetivos comuns e se adaptar a mudanças e desafios.
 
-- Python e SQL para manipulação, consulta e análise de dados;
-- Capacidade de desenvolver soluções analíticas utilizando técnicas e ferramentas  apropriadas para coleta, limpeza, processamento e visualização de dados;
-- Conhecimento em métodos quantitativos,  incluindo matemática e estatística para análise de dados;
-- Possuo conhecimento em programação orientada a  objetos e aplicar práticas para desenvolver códigos de alta qualidade;
-- Princípios de trabalho ágeis na área de análise de dados;
-- Big data e Data Lake no AWS.
+Procurando uma oportunidade para aplicar minhas habilidades e conhecimentos em uma empresa que valoriza a inovação e o desenvolvimento profissional.
+
+
+Habilidades e Experiência:
+
+- Linguagens: Proficiente em Python e SQL para manipulação, consulta e análise de dados.
+- Soluções Analíticas: Desenvolvo soluções analíticas para coleta, limpeza, processamento e visualização 
+  de dados.
+- Conhecimento Quantitativo: Habilidades em matemática e estatística para análise de dados.
+- Programação: Experiência em programação orientada a objetos e desenvolvimento de código de alta 
+  qualidade.
+- Metodologias Ágeis: Aplico princípios ágeis na área de análise de dados.
+- Big Data e AWS: Familiarizado com Big Data e Data Lake na AWS.
+
 
 Ferramentas:
-Python, SQL, Seaborn, Kanban, SAP, Pandas, Git e Github, Numpy, Machine Learning, Power BI, Google Data Studio, Amazon Web Services, Big Data, Data Lake, Spark, Apache Spark, PySpark, Pyarrow, ETL.
 
-Estou disponível para conselhos, dicas e oportunidades!  
+Python, SQL, Seaborn, Excel, Kanban, SAP, Pandas, Git e GitHub, NumPy, Machine Learning, Power BI, Google Data Studio, Amazon Web Services, Big Data, Data Lake, Spark, Apache Spark, PySpark, Pyarrow, ETL, Tableau, MySQL Azure.
+
+Estou disponível para conselhos, dicas e oportunidades! 
+
+Contato: rafael.mcarvaio@hotmail.com
