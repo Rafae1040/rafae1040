@@ -23,7 +23,7 @@
   <img align="center" alt="aws" src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   <img align="center" alt="sap" src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
   <img align="center" alt="scikit-learn" src="https://img.shields.io/badge/Scikit-Learn-808080?style=for-the-badge&logo=Scikit-Learn&logoColor=white"/>
-  <img align="center" alt="scikit-learn" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img align="center" alt="scikit-learn" src="https://img.shields.io/badge/MySQL-07405E?style=for-the-badge&logo=mysql&logoColor=white"/>
   
 </div><br/>
 
