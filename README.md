@@ -29,33 +29,25 @@
 </div><br/>
 
 
-Olá sou o Rafael,  Analista de Dados com foco em desenvolvimento de soluções analíticas inovadoras que contribuam para o sucesso das organizações.
+Olá, sou Rafael, Cristão e Analista de Dados com foco em desenvolver soluções inovadoras que impulsionam o sucesso das organizações.
 
-Entusiasta por tecnologia e aprendizado constante, sempre buscando novas ferramentas e técnicas para melhorar a qualidade dos insights gerados.
-
-Com conhecimento sólido em análise de dados, gestão de pessoas, resolução de problemas, comunicação e trabalho em equipe.
-
-Profissional com forte capacidade de identificar e analisar problemas de forma lógica e objetiva, desenvolver soluções eficazes, comunicar resultados de forma clara e concisa, colaborar com outras pessoas para atingir objetivos comuns e se adaptar a mudanças e desafios.
-
-Procurando uma oportunidade para aplicar minhas habilidades e conhecimentos em uma empresa que valoriza a inovação e o desenvolvimento profissional.
+Experiência na otimização da cadeia produtiva, fundamentada em dados, destaca-se pela análise e implementação diária de controles e aplicação da Metodologia do Kanban para melhorar a eficiência do estoque. Destaco minha habilidade na gestão de pessoas, resolução de problemas, comunicação e trabalho em equipe, tenho forte capacidade de identificar e analisar problemas de forma lógica e objetiva, desenvolver soluções eficazes, comunicar resultados de forma clara e concisa, colaborar com outras pessoas para atingir objetivos comuns e se adaptar a mudanças e desafios.
 
 
-Habilidades e Experiência:
-
+Habilidades: 
 - Linguagens: Proficiente em Python e SQL para manipulação, consulta e análise de dados.
 - Soluções Analíticas: Desenvolvo soluções analíticas para coleta, limpeza, processamento e visualização 
-  de dados.
+ de dados.
 - Conhecimento Quantitativo: Habilidades em matemática e estatística para análise de dados.
-- Programação: Experiência em programação orientada a objetos e desenvolvimento de código de alta 
-  qualidade.
+- Programação: Expertise em programação orientada a objetos e desenvolvimento de código de alta 
+ qualidade.
 - Metodologias Ágeis: Aplico princípios ágeis na área de análise de dados.
 - Big Data e AWS: Familiarizado com Big Data e Data Lake na AWS.
 
-
 Ferramentas:
 
-Python, SQL, Seaborn, Excel, Kanban, SAP, Pandas, Git e GitHub, NumPy, Machine Learning, Power BI, Google Data Studio, Amazon Web Services, Big Data, Data Lake, Spark, Apache Spark, PySpark, Pyarrow, ETL, Tableau, MySQL Azure.
+Python, SQL, Seaborn, Excel, Kanban, SAP, Pandas, Git e GitHub, NumPy, Machine Learning, Power BI, Google Data Studio, Amazon Web Services, Big Data, Data Lake, Spark, Apache Spark, PySpark, Pyarrow, ETL, Tableau,
 
-Estou disponível para conselhos, dicas e oportunidades! 
+Vamos conversar sobre como posso contribuir para o sucesso da sua equipe!
 
 Contato: rafael.mcarvaio@hotmail.com
