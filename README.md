@@ -31,23 +31,18 @@
 
 Olá, sou Rafael, Cristão e Analista de Dados com foco em desenvolver soluções inovadoras que impulsionam o sucesso das organizações.
 
-Experiência na otimização da cadeia produtiva, fundamentada em dados, destaca-se pela análise e implementação diária de controles e aplicação da Metodologia do Kanban para melhorar a eficiência do estoque. Destaco minha habilidade na gestão de pessoas, resolução de problemas, comunicação e trabalho em equipe, tenho forte capacidade de identificar e analisar problemas de forma lógica e objetiva, desenvolver soluções eficazes, comunicar resultados de forma clara e concisa, colaborar com outras pessoas para atingir objetivos comuns e se adaptar a mudanças e desafios.
+Sou um profissional com mais de 7 anos de experiência nas áreas de Logística e Análise de Dados. Durante minha trajetória, atuei no planejamento e execução de processos logísticos, gestão de equipes multidisciplinares e otimização da cadeia de suprimentos, sempre focado em eficiência operacional e resultados.
 
+Tenho sólidos conhecimentos em análise de indicadores (KPIs), ETL e ferramentas como Python, SQL e Power BI. Minha experiência inclui a aplicação de metodologias ágeis, como Kanban, e o uso de sistemas SAP (MM e EWM), que me permitiram implementar melhorias significativas em processos e tomada de decisões estratégicas.
 
-Habilidades: 
-- Linguagens: Proficiente em Python e SQL para manipulação, consulta e análise de dados.
-- Soluções Analíticas: Desenvolvo soluções analíticas para coleta, limpeza, processamento e visualização 
- de dados.
-- Conhecimento Quantitativo: Habilidades em matemática e estatística para análise de dados.
-- Programação: Expertise em programação orientada a objetos e desenvolvimento de código de alta 
- qualidade.
-- Metodologias Ágeis: Aplico princípios ágeis na área de análise de dados.
-- Big Data e AWS: Familiarizado com Big Data e Data Lake na AWS.
-
-Ferramentas:
+Possuo habilidades comportamentais como liderança, organização e resolução de problemas. Através dessas competências, obtive resultados expressivos como a redução de 6% em perdas e atrasos em linhas de produção e a criação de dashboards interativos para análise de dados. Realizei projetos práticos para o aprimoramento profissional na área de dados, como a análise exploratória para otimização logística com uso de Pandas, JSON e Seaborn, e dashboards interativos para monitoramento da COVID-19 e vacinação no Brasil em 2021 com Google Data Studio, NumPy e Pandas.
 
 Python, SQL, Seaborn, Excel, Kanban, SAP, Pandas, Git e GitHub, NumPy, Machine Learning, Power BI, Google Data Studio, Amazon Web Services, Big Data, Data Lake, Spark, Apache Spark, PySpark, Pyarrow, ETL, Tableau,
 
-Vamos conversar sobre como posso contribuir para o sucesso da sua equipe!
+Meus contatos: 
+rafael.mcarvaio@hotmail.com
+(35) 9.9222-3324
+Ferramentas:
 
-Contato: rafael.mcarvaio@hotmail.com
+
+
