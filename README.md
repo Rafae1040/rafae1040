@@ -37,12 +37,13 @@ Tenho sólidos conhecimentos em análise de indicadores (KPIs), ETL e ferramenta
 
 Possuo habilidades comportamentais como liderança, organização e resolução de problemas. Através dessas competências, obtive resultados expressivos como a redução de 6% em perdas e atrasos em linhas de produção e a criação de dashboards interativos para análise de dados. Realizei projetos práticos para o aprimoramento profissional na área de dados, como a análise exploratória para otimização logística com uso de Pandas, JSON e Seaborn, e dashboards interativos para monitoramento da COVID-19 e vacinação no Brasil em 2021 com Google Data Studio, NumPy e Pandas.
 
+Ferramentas:
 Python, SQL, Seaborn, Excel, Kanban, SAP, Pandas, Git e GitHub, NumPy, Machine Learning, Power BI, Google Data Studio, Amazon Web Services, Big Data, Data Lake, Spark, Apache Spark, PySpark, Pyarrow, ETL, Tableau,
 
 Meus contatos: 
 rafael.mcarvaio@hotmail.com
 (35) 9.9222-3324
-Ferramentas:
+
 
 
 
