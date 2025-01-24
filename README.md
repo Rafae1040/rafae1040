@@ -1,6 +1,8 @@
 
 ## Sejam Bem Vindos a Soluções Inteligentes por Meio dos Dados!!!
 
+![git animado](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmw3MndwYjZ4MmNhNWx1eXh5bjh3bmYxa2NxaTgwd3h6eTR1ZWo1eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPEqDGUULpEU0aQ/giphy.gif)
+
 ### Olá! Eu sou Rafael M Carvalho 👋 
 
 Cristão e Analista de Dados com foco em desenvolver soluções inovadoras que impulsionam o sucesso das organizações.
