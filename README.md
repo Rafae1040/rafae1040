@@ -1,9 +1,9 @@
 
-## Sejam Bem Vindos ao meu Mundo!!!
+## Sejam Bem Vindos a Soluções Inteligentes por Meio dos Dados!!!
 
 ### Olá! Eu sou Rafael M Carvalho 👋 
 
-Olá, sou Rafael, Cristão e Analista de Dados com foco em desenvolver soluções inovadoras que impulsionam o sucesso das organizações.
+Cristão e Analista de Dados com foco em desenvolver soluções inovadoras que impulsionam o sucesso das organizações.
 
 Sou um profissional com mais de 7 anos de experiência nas áreas de Logística e Análise de Dados. Durante minha trajetória, atuei no planejamento e execução de processos logísticos, gestão de equipes multidisciplinares e otimização da cadeia de suprimentos, sempre focado em eficiência operacional e resultados.
 
@@ -11,8 +11,6 @@ Tenho sólidos conhecimentos em análise de indicadores (KPIs), ETL e ferramenta
 
 Possuo habilidades comportamentais como liderança, organização e resolução de problemas. Através dessas competências, obtive resultados expressivos como a redução de 6% em perdas e atrasos em linhas de produção e a criação de dashboards interativos para análise de dados. Realizei projetos práticos para o aprimoramento profissional na área de dados, como a análise exploratória para otimização logística com uso de Pandas, JSON e Seaborn, e dashboards interativos para monitoramento da COVID-19 e vacinação no Brasil em 2021 com Google Data Studio, NumPy e Pandas.
 
-Ferramentas:
-Python, SQL, Seaborn, Excel, Kanban, SAP, Pandas, Git e GitHub, NumPy, Machine Learning, Power BI, Google Data Studio, Amazon Web Services, Big Data, Data Lake, Spark, Apache Spark, PySpark, Pyarrow, ETL, Tableau,
 
 Meus contatos: 
 rafael.mcarvaio@hotmail.com
