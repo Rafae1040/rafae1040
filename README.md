@@ -1,5 +1,22 @@
 
-### Olá! Eu sou Rafael M Carvalho 👋
+### Sejam Bem Vindos ao meu Mundo!!!
+
+### Olá! Eu sou Rafael M Carvalho 👋 
+
+Olá, sou Rafael, Cristão e Analista de Dados com foco em desenvolver soluções inovadoras que impulsionam o sucesso das organizações.
+
+Sou um profissional com mais de 7 anos de experiência nas áreas de Logística e Análise de Dados. Durante minha trajetória, atuei no planejamento e execução de processos logísticos, gestão de equipes multidisciplinares e otimização da cadeia de suprimentos, sempre focado em eficiência operacional e resultados.
+
+Tenho sólidos conhecimentos em análise de indicadores (KPIs), ETL e ferramentas como Python, SQL e Power BI. Minha experiência inclui a aplicação de metodologias ágeis, como Kanban, e o uso de sistemas SAP (MM e EWM), que me permitiram implementar melhorias significativas em processos e tomada de decisões estratégicas.
+
+Possuo habilidades comportamentais como liderança, organização e resolução de problemas. Através dessas competências, obtive resultados expressivos como a redução de 6% em perdas e atrasos em linhas de produção e a criação de dashboards interativos para análise de dados. Realizei projetos práticos para o aprimoramento profissional na área de dados, como a análise exploratória para otimização logística com uso de Pandas, JSON e Seaborn, e dashboards interativos para monitoramento da COVID-19 e vacinação no Brasil em 2021 com Google Data Studio, NumPy e Pandas.
+
+Ferramentas:
+Python, SQL, Seaborn, Excel, Kanban, SAP, Pandas, Git e GitHub, NumPy, Machine Learning, Power BI, Google Data Studio, Amazon Web Services, Big Data, Data Lake, Spark, Apache Spark, PySpark, Pyarrow, ETL, Tableau,
+
+Meus contatos: 
+rafael.mcarvaio@hotmail.com
+(35) 9.9222-3324
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafaelmcarvalho-analistadedados/)
 [![github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rafae1040)
@@ -28,21 +45,6 @@
   <img align="center" alt="powerbi" src = "https://img.shields.io/badge/PowerBI-FF9900?style=for-the-badge&logo=PowerBI&logoColor=white"/>
 </div><br/>
 
-
-Olá, sou Rafael, Cristão e Analista de Dados com foco em desenvolver soluções inovadoras que impulsionam o sucesso das organizações.
-
-Sou um profissional com mais de 7 anos de experiência nas áreas de Logística e Análise de Dados. Durante minha trajetória, atuei no planejamento e execução de processos logísticos, gestão de equipes multidisciplinares e otimização da cadeia de suprimentos, sempre focado em eficiência operacional e resultados.
-
-Tenho sólidos conhecimentos em análise de indicadores (KPIs), ETL e ferramentas como Python, SQL e Power BI. Minha experiência inclui a aplicação de metodologias ágeis, como Kanban, e o uso de sistemas SAP (MM e EWM), que me permitiram implementar melhorias significativas em processos e tomada de decisões estratégicas.
-
-Possuo habilidades comportamentais como liderança, organização e resolução de problemas. Através dessas competências, obtive resultados expressivos como a redução de 6% em perdas e atrasos em linhas de produção e a criação de dashboards interativos para análise de dados. Realizei projetos práticos para o aprimoramento profissional na área de dados, como a análise exploratória para otimização logística com uso de Pandas, JSON e Seaborn, e dashboards interativos para monitoramento da COVID-19 e vacinação no Brasil em 2021 com Google Data Studio, NumPy e Pandas.
-
-Ferramentas:
-Python, SQL, Seaborn, Excel, Kanban, SAP, Pandas, Git e GitHub, NumPy, Machine Learning, Power BI, Google Data Studio, Amazon Web Services, Big Data, Data Lake, Spark, Apache Spark, PySpark, Pyarrow, ETL, Tableau,
-
-Meus contatos: 
-rafael.mcarvaio@hotmail.com
-(35) 9.9222-3324
 
 
 
