@@ -5,9 +5,9 @@
 
 ### Olá! Eu sou Rafael M Carvalho 👋 
 
-Cristão e Analista de Dados com foco em desenvolver soluções inovadoras que impulsionam o sucesso das organizações.
+Sou Cristão e Analista de Dados com foco em desenvolver soluções inovadoras que impulsionam o sucesso das organizações.
 
-Sou um profissional com mais de 7 anos de experiência nas áreas de Logística e Análise de Dados. Durante minha trajetória, atuei no planejamento e execução de processos logísticos, gestão de equipes multidisciplinares e otimização da cadeia de suprimentos, sempre focado em eficiência operacional e resultados.
+Profissional com mais de 7 anos de experiência nas áreas de Logística e Análise de Dados. Durante minha trajetória, atuei no planejamento e execução de processos logísticos, gestão de equipes multidisciplinares e otimização da cadeia de suprimentos, sempre focado em eficiência operacional e resultados.
 
 Tenho sólidos conhecimentos em análise de indicadores (KPIs), ETL e ferramentas como Python, SQL e Power BI. Minha experiência inclui a aplicação de metodologias ágeis, como Kanban, e o uso de sistemas SAP (MM e EWM), que me permitiram implementar melhorias significativas em processos e tomada de decisões estratégicas.
 
